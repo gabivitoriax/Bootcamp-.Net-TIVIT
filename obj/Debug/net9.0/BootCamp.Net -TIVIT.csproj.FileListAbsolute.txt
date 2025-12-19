@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\BootCamp.Net -TIVIT\obj\Debug\net9.0\BootCamp.Net -TIVIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\BootCamp.Net -TIVIT\obj\Debug\net9.0\BootCamp.Net -TIVIT.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\BootCamp.Net -TIVIT\obj\Debug\net9.0\BootCamp.Net -TIVIT.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\BootCamp.Net -TIVIT\obj\Debug\net9.0\BootCamp.Net -TIVIT.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\BootCamp.Net -TIVIT\obj\Debug\net9.0\BootCamp.Net -TIVIT.sourcelink.json
+C:\Users\gabri\OneDrive\Área de Trabalho\BootCamp.Net -TIVIT\bin\Debug\net9.0\BootCamp.Net -TIVIT.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\BootCamp.Net -TIVIT\bin\Debug\net9.0\BootCamp.Net -TIVIT.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\BootCamp.Net -TIVIT\bin\Debug\net9.0\BootCamp.Net -TIVIT.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\BootCamp.Net -TIVIT\bin\Debug\net9.0\BootCamp.Net -TIVIT.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\BootCamp.Net -TIVIT\bin\Debug\net9.0\BootCamp.Net -TIVIT.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\BootCamp.Net -TIVIT\obj\Debug\net9.0\BootCamp.Net -TIVIT.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\BootCamp.Net -TIVIT\obj\Debug\net9.0\refint\BootCamp.Net -TIVIT.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\BootCamp.Net -TIVIT\obj\Debug\net9.0\BootCamp.Net -TIVIT.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\BootCamp.Net -TIVIT\obj\Debug\net9.0\BootCamp.Net -TIVIT.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\BootCamp.Net -TIVIT\obj\Debug\net9.0\ref\BootCamp.Net -TIVIT.dll
