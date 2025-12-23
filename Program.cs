@@ -1,14 +1,102 @@
 ﻿using System.Data;
+using System.Dynamic;
 using System.Reflection;
 using BootCamp.Net__TIVIT.Models;
 
+//Operador condicional
+//Operador AND
+bool possuiPresencaMinima = true;
+double media = 6.5;
+
+if(possuiPresencaMinima && media >= 7)
+{
+    Console.WriteLine("Aprovado");
+}
+else
+{
+    Console.WriteLine("Reprovado!");
+}
+/*Operador OR
+bool ehMaiorDeIdade = false;
+bool possuiAutorizacaoDoResponsavel = false;
+
+if(ehMaiorDeIdade || possuiAutorizacaoDoResponsavel)
+{
+    Console.WriteLine("Entrada Liberada!");
+}
+else
+{
+    Console.WriteLine("Entrada não liberada.");
+}*/
+
+/*switch case 
+Console.WriteLine("Digite um letra: ");
+string letra = Console.ReadLine();
+
+switch(letra)
+{
+    case "a":
+    case "e":
+    case "i":
+    case "o":
+    case "u":
+        Console.WriteLine("Vogal");
+        break;
+
+    default:
+        Console.WriteLine("Não é uma vogal.");
+        break;
+}
+
+if (letra == "a" ||
+    letra == "e" ||
+    letra == "i" ||
+    letra == "o" ||
+    letra == "u")
+{
+    Console.WriteLine("Vogal");
+}
+else
+{
+    Console.WriteLine("Não é uma vogal.");
+}*/
+
+/*If Aninhado
+int quantidadeEmEstoque = 10;
+int quantidadeCompra = 0;
+bool possivelVenda = quantidadeCompra > 0 && quantidadeEmEstoque >= quantidadeCompra;
+
+Console.WriteLine($"Quantidade em estoque: {quantidadeEmEstoque}");
+Console.WriteLine($"Quantidade compra: {quantidadeCompra}");
+Console.WriteLine($"É possível realizar a venda? {possivelVenda}");
+
+if (quantidadeCompra == 0)
+{
+    Console.WriteLine("venda inválida.");
+}
+else if (possivelVenda)
+{
+    Console.WriteLine("Venda realizada!");
+} 
+else
+{
+    Console.WriteLine("Desculpe, não temos a quantidade desejada em estoque.");
+}*/
 
 //Convertendo tipos de variáveis
-//Cast implícito: acontece quando você quer converter um tipo de dado em um tipo de dado que é maior, na teoria o tipo de dado original "cabe" no outro tipo, então não precisa usar comando de conversão. 
+/*TryParse - Conversão segura. 
+string a = "15-";
+int b = 0;
+int.TryParse(a, out b); // a lógica no tryparse: eu vou tentar converter o a, porém o a pode não ser um número e isso fará gerar o erro, o valor de a apresentando um erro, meu valor de saída será o valor de b.
+
+Console.WriteLine(b);
+Console.WriteLine("Conversão realizada com sucesso");*/
+
+/*Cast implícito: acontece quando você quer converter um tipo de dado em um tipo de dado que é maior, na teoria o tipo de dado original "cabe" no outro tipo, então não precisa usar comando de conversão. 
 int a = 5;
 double b = a;
 
-Console.WriteLine(b);
+Console.WriteLine(b);*/
 
 //Cast Explicito 
 /*int inteiro = 5;
