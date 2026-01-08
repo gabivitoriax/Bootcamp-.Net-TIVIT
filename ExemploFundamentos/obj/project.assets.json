@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\BootCamp.Net -TIVIT\\BootCamp.Net -TIVIT.csproj",
+      "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\BootCamp.Net -TIVIT\\ExemploFundamentos\\BootCamp.Net -TIVIT.csproj",
       "projectName": "BootCamp.Net -TIVIT",
-      "projectPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\BootCamp.Net -TIVIT\\BootCamp.Net -TIVIT.csproj",
+      "projectPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\BootCamp.Net -TIVIT\\ExemploFundamentos\\BootCamp.Net -TIVIT.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\BootCamp.Net -TIVIT\\obj\\",
+      "outputPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\BootCamp.Net -TIVIT\\ExemploFundamentos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config"
