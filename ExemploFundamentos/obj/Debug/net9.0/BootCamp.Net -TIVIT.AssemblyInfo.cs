@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BootCamp.Net -TIVIT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30beeff421346834a0c67f2af88beecce821f2da")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9e806533207973267839a56e8a47c0802491e68")]
 [assembly: System.Reflection.AssemblyProductAttribute("BootCamp.Net -TIVIT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BootCamp.Net -TIVIT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
